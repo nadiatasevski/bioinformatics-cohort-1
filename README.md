@@ -16,3 +16,5 @@
 
 
 ### Session 2 - Bioinformatics Fundamentals
+
+[Slides](https://docs.google.com/presentation/d/1S-LbQqvX12VoEGpg7TyQ-_xE0FkTmdwYmWJpGCURK8M/edit?usp=sharing)
